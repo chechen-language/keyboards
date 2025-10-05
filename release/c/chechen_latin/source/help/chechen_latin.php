@@ -5,7 +5,7 @@ $pagetitle = $pagename;
 require_once('header.php');
 ?>
 
-<p>Keyboard for typing Chechen in Latin script using the 1992 alphabet.</p>
+<p>Keyboard for typing Chechen in the Latin script, using the Chechen Latin alphabet</p>
 
 <h2>Desktop Keyboard Layout</h2>
 <div id='osk' data-states='default shift rightalt rightalt-shift'>

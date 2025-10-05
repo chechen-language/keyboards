@@ -1,4 +1,4 @@
-﻿c Keyboard for typing Chechen in Latin script using the 1992 alphabet
+﻿c Keyboard for typing Chechen in the Latin script, using the Chechen Latin alphabet
 c 
 c Website: https://vayfond.com/en
 store(&VERSION) '15.0'
